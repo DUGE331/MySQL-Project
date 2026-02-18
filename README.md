@@ -12,9 +12,31 @@ It includes SQL scripts and screenshots of queries, results, and action outputs.
 - `ITD105 Assessment 3B_25s2.sql` – SQL scripts for the project
 
 ## Screenshots
-![Normalization](3nf.png)
-![3NF Arrows](3nfWArrows.png)
-![Sample Screenshot](Screenshot 2025-09-30 085829.png)
+![3nf.png](3nf.png)
+![3nfWArrows.png](3nfWArrows.png)
+![Screenshot 2025-09-30 085829.png](Screenshot 2025-09-30 085829.png)
+![Screenshot 2025-09-30 130535.png](Screenshot 2025-09-30 130535.png)
+![Screenshot 2025-09-30 130545.png](Screenshot 2025-09-30 130545.png)
+![Screenshot 2025-09-30 130553.png](Screenshot 2025-09-30 130553.png)
+![Screenshot 2025-09-30 130606.png](Screenshot 2025-09-30 130606.png)
+![Screenshot 2025-09-30 131411.png](Screenshot 2025-09-30 131411.png)
+![Screenshot 2025-09-30 131440.png](Screenshot 2025-09-30 131440.png)
+![Screenshot 2025-09-30 131501.png](Screenshot 2025-09-30 131501.png)
+![Screenshot 2025-09-30 131520.png](Screenshot 2025-09-30 131520.png)
+![Screenshot 2025-09-30 131529.png](Screenshot 2025-09-30 131529.png)
+![Screenshot 2025-09-30 131536.png](Screenshot 2025-09-30 131536.png)
+![Screenshot 2025-09-30 131546.png](Screenshot 2025-09-30 131546.png)
+![Screenshot 2025-09-30 134017.png](Screenshot 2025-09-30 134017.png)
+![Screenshot 2025-09-30 134846.png](Screenshot 2025-09-30 134846.png)
+![Screenshot 2025-09-30 140748.png](Screenshot 2025-09-30 140748.png)
+![Screenshot 2025-09-30 141142.png](Screenshot 2025-09-30 141142.png)
+![Screenshot 2025-10-06 095940.png](Screenshot 2025-10-06 095940.png)
+![Screenshot 2025-10-06 100159.png](Screenshot 2025-10-06 100159.png)
+![Screenshot 2025-10-06 100647.png](Screenshot 2025-10-06 100647.png)
+![Screenshot 2025-10-06 100753.png](Screenshot 2025-10-06 100753.png)
+![Screenshot 2025-10-06 102730.png](Screenshot 2025-10-06 102730.png)
+![Screenshot 2025-10-06 104152.png](Screenshot 2025-10-06 104152.png)
+![t5.png](t5.png)
 
 ## Reasoning
 - MySQL chosen for reliability and relational data handling.
